@@ -1,0 +1,19 @@
+{
+  "name": "random-data-generator",
+  "version": "1.0.0",
+  "description": "npm package to generate fake data",
+  "main": "index.js",
+  "repository": "https://github.com/hsan8/random-data-generator",
+  "author": "Hassen Dhaouadi",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash.add": "^3.7.9",
+    "eslint-config-airbnb-base": "15.0.0",
+    "lodash": "^4.17.21",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-plugin-import": "^2.25.2"
+  }
+}
