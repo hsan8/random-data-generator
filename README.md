@@ -1,7 +1,7 @@
-# My NPM Library Documentation
+# random-data-generator
 
 ## Description
-Provide a brief description of your NPM library, explaining what it does and its purpose.
+The `random-data-generator` library provides a set of functions to generate random data of various types, including numbers, strings, dates, and more. This library is useful for testing purposes, creating mock data, or any scenario where you need to generate random data dynamically. The random data generation is based on configurable parameters, allowing you to control the range, format, and characteristics of the generated data.
 
 ## Installation
 
