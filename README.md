@@ -5,15 +5,15 @@ Provide a brief description of your NPM library, explaining what it does and its
 
 ## Installation
 
-\`\`\`bash
+```bash
 npm install random-data-generator
-\`\`\`
+```
 
 ## Usage
 
 ### Example 1
 
-\`\`\`javascript
+```javascript
 const randomly= require('random-data-generator');
 
 // Use the library
@@ -28,7 +28,7 @@ randomly.password.generatePassword({
       useUppercaseWithAccent:true, //optional
     },
   });
-\`\`\`
+```
 
 Explain the usage of your library with examples and code snippets.
 
