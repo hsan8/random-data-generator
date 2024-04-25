@@ -1,0 +1,2 @@
+export const PASSWORD_MAX_LENGTH = 100;
+export const ARRAY_PASSWORD_MAX_LENGTH = 9999;
