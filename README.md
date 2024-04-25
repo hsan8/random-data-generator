@@ -30,20 +30,18 @@ randomly.password.generatePassword({
   });
 ```
 
-Explain the usage of your library with examples and code snippets.
-
 ## API
 
 ### \`randomly.password.generatePassword\`
 - Description: generate password based on the bellow parameters.
 - Parameters:
-  - \`length\` (Type): length of the expected password.
-  - \`useDigits\` (Type): allow to the generator to include the digits in the password.
-  - \`useLowercase\` (Type): allow to the generator to include the lowercase characters in the password.
-  - \`useSymbols\` (Type): allow to the generator to include the symbols characters in the password.
-  - \`useUppercase\` (Type): allow to the generator to include the uppercase characters in the password.
-  - \`useLowercaseAccent\` (Type): allow to the generator to include the lowercase with accent characters in the password.
-  - \`useUppercaseWithAccent\` (Type): allow to the generator to include the uppercase with accent in the password.
+  - `length` (Type): length of the expected password.
+  - `useDigits` (Type): allow to the generator to include the digits in the password.
+  - `useLowercase` (Type): allow to the generator to include the lowercase characters in the password.
+  - `useSymbols` (Type): allow to the generator to include the symbols characters in the password.
+  - `useUppercase` (Type): allow to the generator to include the uppercase characters in the password.
+  - `useLowercaseAccent` (Type): allow to the generator to include the lowercase with accent characters in the password.
+  - `useUppercaseWithAccent` (Type): allow to the generator to include the uppercase with accent in the password.
 - Returns: (Type) string.
 
 Document all the exposed functions, classes, and methods of your library, including their parameters and return values.
