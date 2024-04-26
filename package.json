@@ -15,5 +15,6 @@
   "devDependencies": {
     "eslint": "^8.2.0",
     "eslint-plugin-import": "^2.25.2"
-  }
+  },
+  "keywords": ["password generator","OTP", "mocks", "faker", "random data generator"]
 }
